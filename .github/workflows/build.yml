@@ -149,7 +149,7 @@ jobs:
 
       - name: Push release branch
         run: git push origin release:release
-        if: ${{ github.ref_name == github.event.repository.default_branch }}
+        # if: ${{ github.ref_name == github.event.repository.default_branch }}
 
       - name: Release
         run: |

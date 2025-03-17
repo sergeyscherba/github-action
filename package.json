@@ -3,13 +3,13 @@
   "version": "0.0.0-PLACEHOLDER",
   "private": true,
   "description": "GitHub Action to run Renovate self-hosted.",
-  "homepage": "https://github.com/renovatebot/github-action#readme",
+  "homepage": "https://github.com/sergeyscherba/github-action#readme",
   "bugs": {
-    "url": "https://github.com/renovatebot/github-action/issues"
+    "url": "https://github.com/sergeyscherba/github-action/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/renovatebot/github-action.git"
+    "url": "git+https://github.com/sergeyscherba/github-action.git"
   },
   "license": "GPL-3.0-or-later",
   "author": "Jeroen de Bruijn",
